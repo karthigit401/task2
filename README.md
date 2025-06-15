@@ -21,9 +21,7 @@ Matplotlib / Seaborn
 Jupyter Notebook
 
 📁 Folder Structure
-bash
-Copy
-Edit
+
 Task-02/
 │
 ├── data/
